@@ -11,6 +11,24 @@ Welcome to my GitHub! I'm a Data Engineer with over 4 years of experience in des
 - **Cloud-native architectures** with **Azure** and **Google Cloud Platform**.
 - Experimenting with **AI/ML Productionization** for scaling machine learning models.
 
+### 🛠 Tech Stack & Tools:
+#### **Data Engineering & ETL Tools:**
+- **Azure Data Factory (ADF)**: Orchestrating complex ETL pipelines.
+- **SSIS (SQL Server Integration Services)**: Building and managing ETL workflows.
+- **Apache Airflow**: Workflow automation and scheduling for ETL processes.
+- **Informatica PowerCenter**: Data transformation, staging, and loading.
+- **Apache Spark**: Distributed data processing for big data use cases.
+- **PostgreSQL, MySQL, Microsoft SQL Server**: Database design, indexing, optimization.
+
+#### **Cloud Platforms & Services:**
+- **Microsoft Azure**: ADF, Azure SQL, Data Lake, Logic Apps, Cosmos DB.
+- **Google Cloud Platform (GCP)**: BigQuery, DataFlow, GCS, Pub/Sub.
+- **AWS**: S3, EC2, Lambda, Redshift (beginner level).
+  
+#### **Containerization & Orchestration:**
+- **Docker**: Building, testing, and deploying containerized applications.
+- **Kubernetes**: Managing containerized applications in production environments.
+
 ### 👯 I’m looking to collaborate on:
 - **Open-source data engineering projects** that involve modern data pipelines, ETL, and cloud-based solutions.
 - **ML/AI Productionization** projects using tools like Azure, Spark, and Docker.
@@ -26,9 +44,6 @@ Welcome to my GitHub! I'm a Data Engineer with over 4 years of experience in des
 ### 📫 How to reach me:
 - **LinkedIn**: [Prudhvi Krishna Gangavarapu](https://www.linkedin.com/in/prudhvi-gangavarapu)
 - **Email**: prudhvikrishna.gangavarapu@gmail.com
-
-### 😄 Pronouns:
-- He/Him
 
 ### ⚡ Fun fact:
 - I’m a huge fan of **One Piece** and often find parallels between coding challenges and the adventures of Luffy and his crew! 🏴‍☠️
